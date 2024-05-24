@@ -2,7 +2,7 @@
 
 Frontend sencillo para interactuar con la API GraphQL de gestión de clientes. Utiliza HTML, CSS y JavaScript para proporcionar una interfaz de usuario básica.
 
-## Uso de la API Graphql
+## Uso de la API GraphQl
 
 En el frontend, las solicitudes a la API GraphQL se realizan utilizando la función `fetch` de JavaScript
 
